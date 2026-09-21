@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://completesystemssolutions.com.au/sitemap.xml
